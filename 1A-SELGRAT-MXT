@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]ACESSO DE GRATUITO [/B][/COLOR]</name>
+<name>[COLOR orange][B]ACESSO GRATUITO [/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/Pg84FL4/validade.png</thumbnail>
 <fanart>https://i.ibb.co/hXGKrVJ/fanart-JARVIS.jpg</fanart>
@@ -21,19 +21,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]CLIQUE AQUI PARA VER DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/DICASDENAVEGASAO</externallink>
-<thumbnail>https://i.ibb.co/3NnB0PR/ndice.jpg</thumbnail>
-<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>[COLOR white]COR BRANCA - LINK ON LINE[/COLOR] - [COLOR orange]COR LARANJA - SEM LINK[/COLOR]
-[COLOR red]COR VERMELHA - LINK OFF LINE[/COLOR] - [COLOR white]REPORTE LINKS OFF LINE[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
 <externallink>https://</externallink>
 <thumbnail>https://i.ibb.co/VJv0L6N/desempnho.png</thumbnail>
@@ -45,7 +32,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR white][B]CLIQUE AQUI PARA INFORMAÇÕES DO ACESSO[/B][/COLOR]</name>
+<name>[COLOR white][B]CLIQUE AQUI PARA VER INFORMAÇÕES DO ACESSO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A8-VALACEEINFO-GRATUITO</externallink>
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
