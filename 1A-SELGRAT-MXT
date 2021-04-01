@@ -1,13 +1,15 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]ACESSO GRATUITO [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/1-CATEGORIAS-AVMTX</externallink>
-<thumbnail>https://i.ibb.co/Pg84FL4/validade.png</thumbnail>
+<name>[COLOR orange][B]SELECIONE UM ITEM [/B][/COLOR]</name>
+<externallink>NOLINK</externallink>
+<thumbnail>https://i.ibb.co/MZ5t3vS/icon.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
-<info>AGRADECEMOS SUA VISITA</info>
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR white][B]CLIQUE AQUI PARA ACESSAR O CONTEÚDO[/B][/COLOR]</name>
@@ -37,6 +39,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/L1f6YF6/validade.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>INFORMAÇÕES </info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]ACESSO GRATUITO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/2-AVALIA-MTX/main/1-CATEGORIAS-AVMTX</externallink>
+<thumbnail>https://i.ibb.co/Pg84FL4/validade.png</thumbnail>
+<fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
