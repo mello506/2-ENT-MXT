@@ -33,9 +33,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
+<channels>
+<channel>
 <name>[COLOR white][B]PEDIDOS DO RODRIGO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-ENT-MXT/main/3L3-PEDIDOSROBERTO-MTX</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/2-ENT-MXT/main/3L3-PEDIDOSRODRIGO-MTX</externallink>
 <thumbnail>https://i.ibb.co/yNxkmtR/Pedidos.png</thumbnail>
 <fanart>https://i.ibb.co/t3RxFSK/fanart.jpg</fanart>
 <info>OS PEDIDOS DO USUÁRIO</info>
