@@ -6,8 +6,8 @@
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
 <item>			
 <title>[COLOR white][B]Jamestown - 2017[/B][/COLOR]</title>			
 			
@@ -15,66 +15,80 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
 			
-<link>http://b5.vc:80/series/ed/102030/67109.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] ->[COLOR white] Episodio -> 01[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67110.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] ->[COLOR white] Episodio -> 02[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67111.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] ->[COLOR white] Episodio -> 03[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67112.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] ->[COLOR white] Episodio -> 04[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67113.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] ->[COLOR white] Episodio -> 05[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67114.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] ->[COLOR white] Episodio -> 06[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67115.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] ->[COLOR white] Episodio -> 07[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67116.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] ->[COLOR white] Episodio -> 08[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67109.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] ->[COLOR white] Episodio -> 01[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67110.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] ->[COLOR white] Episodio -> 02[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67111.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] ->[COLOR white] Episodio -> 03[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67112.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] ->[COLOR white] Episodio -> 04[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67113.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] ->[COLOR white] Episodio -> 05[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67114.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] ->[COLOR white] Episodio -> 06[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67115.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] ->[COLOR white] Episodio -> 07[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67116.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] ->[COLOR white] Episodio -> 08[/B][/COLOR]</link>			
 			
 <link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 02 - DUB[/B][/COLOR]</link>			
 			
-<link>http://b5.vc:80/series/ed/102030/67117.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] ->[COLOR white] Episodio -> 01[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67118.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] ->[COLOR white] Episodio -> 02[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67119.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] ->[COLOR white] Episodio -> 03[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67120.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] ->[COLOR white] Episodio -> 04[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67121.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] ->[COLOR white] Episodio -> 05[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67122.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] ->[COLOR white] Episodio -> 06[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67123.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] ->[COLOR white] Episodio -> 07[/B][/COLOR]</link>			
-link>http://b5.vc:80/series/ed/102030/.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] ->[COLOR white] Episodio -> 08[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67117.mp4$nome=[COLOR orange][B]T02E01[COLOR yellow] ->[COLOR white] Episodio -> 01[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67118.mp4$nome=[COLOR orange][B]T02E02[COLOR yellow] ->[COLOR white] Episodio -> 02[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67119.mp4$nome=[COLOR orange][B]T02E03[COLOR yellow] ->[COLOR white] Episodio -> 03[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67120.mp4$nome=[COLOR orange][B]T02E04[COLOR yellow] ->[COLOR white] Episodio -> 04[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67121.mp4$nome=[COLOR orange][B]T02E05[COLOR yellow] ->[COLOR white] Episodio -> 05[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67122.mp4$nome=[COLOR orange][B]T02E06[COLOR yellow] ->[COLOR white] Episodio -> 06[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67123.mp4$nome=[COLOR orange][B]T02E07[COLOR yellow] ->[COLOR white] Episodio -> 07[/B][/COLOR]</link>			
+link>http://b5.vc:80/series/Ivison/102030/.mp4$nome=[COLOR orange][B]T02E08[COLOR yellow] ->[COLOR white] Episodio -> 08[/B][/COLOR]</link>			
 			
 <link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 03 - DUB[/B][/COLOR]</link>			
 			
-<link>http://b5.vc:80/series/ed/102030/67124.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] ->[COLOR white] Episodio ->01[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67125.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] ->[COLOR white] Episodio ->02[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67126.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] ->[COLOR white] Episodio ->03[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67127.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] ->[COLOR white] Episodio ->04[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67128.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] ->[COLOR white] Episodio ->05[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67129.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] ->[COLOR white] Episodio ->06[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67130.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] ->[COLOR white] Episodio ->07[/B][/COLOR]</link>			
-<link>http://b5.vc:80/series/ed/102030/67131.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] ->[COLOR white] Episodio ->08[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67124.mp4$nome=[COLOR orange][B]T03E01[COLOR yellow] ->[COLOR white] Episodio ->01[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67125.mp4$nome=[COLOR orange][B]T03E02[COLOR yellow] ->[COLOR white] Episodio ->02[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67126.mp4$nome=[COLOR orange][B]T03E03[COLOR yellow] ->[COLOR white] Episodio ->03[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67127.mp4$nome=[COLOR orange][B]T03E04[COLOR yellow] ->[COLOR white] Episodio ->04[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67128.mp4$nome=[COLOR orange][B]T03E05[COLOR yellow] ->[COLOR white] Episodio ->05[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67129.mp4$nome=[COLOR orange][B]T03E06[COLOR yellow] ->[COLOR white] Episodio ->06[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67130.mp4$nome=[COLOR orange][B]T03E07[COLOR yellow] ->[COLOR white] Episodio ->07[/B][/COLOR]</link>			
+<link>http://b5.vc:80/series/Ivison/102030/67131.mp4$nome=[COLOR orange][B]T03E08[COLOR yellow] ->[COLOR white] Episodio ->08[/B][/COLOR]</link>			
 			
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f6iGmDOS6s2QZGKRdWiWf5mLBNu.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/dVQx7jDOQWcaLNqIMjPKIDJY1ZT.jpg</fanart>			
+<thumbnail>https://www.themoviIvisonb.org/t/p/w600_and_h900_bestv2/f6iGmDOS6s2QZGKRdWiWf5mLBNu.jpg</thumbnail>			
+<fanart>https://www.themoviIvisonb.org/t/p/original/dVQx7jDOQWcaLNqIMjPKIDJY1ZT.jpg</fanart>			
 <info>1619, Virgínia: no que parece ser a veira do mundo, fica a colônia britânica de Jamestown. Por 12 anos, ela tem sido povoada apenas por homens, mas o assentamento é abalado quando as primeiras mulheres, incluindo Alice (Sophie Rundle), Verity (Niamh Walsh) e Jocelyn (Naomi Battrick), aterrissam nessas terras de tirar o fôlego.</info>			
 <genre>DRAMA</genre>  			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
-<item>
-<title>[COLOR white][B]The Act - 2019[/B][/COLOR]</title>
-
-<link>plugin://plugin.video.youtube/play/?video_id=Y_5fqDZCjQo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Act [/B][/COLOR]</link>
-
-<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37974.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Casa do Sonho Bom [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37975.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Os Dentes [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37976.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Dois Wolverines [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37977.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fique Dentro [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37978.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Plano B [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37979.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Um Mundo Novo [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37980.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Bonnie & Clyde [/B][/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/37981.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Free [/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/1yhQGQH7pfKdIY2xJSYNdp8ReD6.jpg</fanart>
-<info>O relacionamento entre Dee Dee Blanchard e sua filha Gypsy, que acreditou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato. </info>
-<genre>CRIME E DRAMA</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
+			
+<item>			
+<title>[COLOR white][B]The Act - 2019[/B][/COLOR]</title>			
+			
+<link>plugin://plugin.video.youtube/play/?video_id=Y_5fqDZCjQo$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]The Act [/B][/COLOR]</link>			
+			
+<link>NOLINK$nome=[COLOR orange][B]SERVER 2[COLOR yellow] -> [COLOR orange] Temporada 01 - DUB[/B][/COLOR]</link>			
+			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37974.mp4$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Casa do Sonho Bom [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37975.mp4$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Os Dentes [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37976.mp4$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Dois Wolverines [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37977.mp4$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Fique Dentro [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37978.mp4$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Plano B [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37979.mp4$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Um Mundo Novo [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37980.mp4$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Bonnie & Clyde [/B][/COLOR]</link>			
+<link>http://sv1.nowiptv.net:8880/series/ACML2/67293456jg/37981.mp4$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Free [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themovivanusab.org/t/p/w600_and_h900_bestv2/vb1sQLC2MqfCPOFqHd8SyVsyDVB.jpg</thumbnail>			
+<fanart>https://www.themovivanusab.org/t/p/original/1yhQGQH7pfKdIY2xJSYNdp8Rvanusa6.jpg</fanart>			
+<info>O relacionamento entre Dee Dee Blanchard e sua filha Gypsy, que acrvanusaitou ter uma grave doença durante toda a vida por causa da mãe extremamente controladora e insegura. Em busca de independência para viver um amor proibido, Gypsy decide então orquestrar um assassinato. </info>			
+<genre>CRIME E DRAMA</genre>  			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR white][B]Inferno na Ilha  - 2010[/B][/COLOR]</title>			
+			
+<link>plugin://plugin.video.youtube/play/?video_id=sDDllaBbpxw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Inferno na Ilha  [/B][/COLOR]</link>			
+			
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/195CD8zkPj_VJ0x_J6wax_bDLFq8KqNwg/view$nome=[COLOR orange][B]G DRIVE[COLOR yellow] -> [COLOR white]Inferno na Ilha [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themovivanusab.org/t/p/w600_and_h900_bestv2/wHD04i1z3PvTWY06RVox3lh9ZzS.jpg</thumbnail>			
+<fanart>https://i.ibb.co/wLmCRsB/p-Ke-Cu-Ohe-X2-KQt-D2-W2dq-Mt-Ms-RF1-Z.jpg</fanart>			
+<info>Noruega, início do século 20. Na Ilha de Bastoy existe um reformatório para jovens delinquentes. No entanto, em vez de reabilitar os meninos, os guardas e o diretor abusam mental e fisicamente deles, os usando como mão de obra barata. Earling, de 17 anos, chega a instituição com um plano: escapar da ilha. Após um trágico incidente, ele lidera a rebelião dos meninos de Bastoy. Mas terá de descobrir: até onde ele está disposto a ir pela liberdade?</info>			
+<genre>DRAMA</genre>  			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
