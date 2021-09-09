@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/2-ENT-MXT/main/1A-SELGRAT-MXT-PERM</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/1.0-NEWADD-MI-KRP/main/1-CATEGORIAS-MI</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -42,8 +42,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR white][B]ACESSO PREMIUM LIBERADO POR 24 HRs ATÉ 08-09-21[/B][/COLOR]</name>
+<channels>
+<channel>
+<name>[COLOR white][B]ACESSO PREMIUM LIBERADO POR 24 HRs ATÉ 10-09-21[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A8-VALACEEINFO-GRATUITO</externallink>
 <thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
